@@ -16,3 +16,4 @@ This Python script scans for available Wi-Fi networks and displays the informati
 
    ```bash
    pip install notify2
+![image](https://github.com/user-attachments/assets/8fe7dbfa-5778-4108-adf9-27a59a98dae2)
